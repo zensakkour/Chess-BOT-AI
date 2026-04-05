@@ -1,0 +1,26 @@
+# Build output
+/build/
+/bin/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+
+# Binaries and objects
+*.exe
+*.out
+*.obj
+*.o
+*.a
+*.lib
+*.pdb
+*.dll
+
+# IDE
+.vscode/
+.idea/
+.vs/
+
+# OS files
+.DS_Store
+Thumbs.db
